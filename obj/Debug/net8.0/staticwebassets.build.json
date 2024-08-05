@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gOwDzGLOOoJqs38r9V4b3Kp1gqb6TshHnoUBPah9tmk=",
+  "Source": "SecureApiWithAuthentication",
+  "BasePath": "_content/SecureApiWithAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
